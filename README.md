@@ -8,10 +8,10 @@ This is an open source, multi-threaded website crawler written in Python.
 ###### Example
 `python main.py empli https://empli.io/`
 
-#Notes
+# Notes
 This is my first project in python, feel free to make a contribution!
 
-#Features
+# Features
 - SSL website crawl support
 - Separate folders for different website
 - Multi threading
