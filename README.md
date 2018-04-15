@@ -16,5 +16,5 @@ This is my first project in python, feel free to make a contribution!
 - Separate folders for different website
 - Multi threading
 
-# Contributions
+# Contributors
 [Aleksandar Vukasinovic](https://www.linkedin.com/in/aleksandar-vukasinovic-a091348b/)
