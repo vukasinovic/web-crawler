@@ -13,7 +13,7 @@ This is my first project in python, feel free to make a contribution!
 
 # Features
 - SSL website crawl support
-- Separate folders for different website
+- Separate folders for different websites
 - Multi threading
 
 # Contributors
